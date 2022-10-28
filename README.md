@@ -49,6 +49,12 @@ To calculate the average fare per driver, we used a very similar formula to the 
 
 These results follow the same trend as before, showing that Rural Cities have a much higher Average Fare per Driver than Suburban and Urban Cities. This, again, makes sense if we take into account the extremely low amount of drivers that Rural cities have compared to Suburban and Urban Cities. 
 
+#### Data Summary
+
+Finally, we constructed a Summary DataFrame for our analysis, where we could clearly inspect the data trends: 
+
+![6](https://user-images.githubusercontent.com/113153777/198706109-f134e3a5-0a43-4854-a562-b1fd50b3b170.png)
+
 ## Summary: 
 ### Subheading
 Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
