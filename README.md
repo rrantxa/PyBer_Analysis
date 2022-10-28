@@ -56,5 +56,12 @@ Finally, we constructed a Summary DataFrame for our analysis, where we could cle
 ![6](https://user-images.githubusercontent.com/113153777/198706109-f134e3a5-0a43-4854-a562-b1fd50b3b170.png)
 
 ## Summary: 
-### Subheading
-Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+### How can we ensure that each city type has fairer ride conditions?
+
+Looking at the results mentioned above, we can conclude that Suburban, and especially Rural cities, don't have the same ride-sharing conditions than Urban cities. So, the question is: how can we address their disparities and ensure that there are fairer conditions overall? Here, we propose three direct actions for this purpose:
+
+1. As a ride-sharing app, PyBer could offer incentives in Rural and Suburban cities to gain more drivers. A type of incentive could be, for example, lowering the percentage of the fare that PyBer gets in Rural and Suburban cities compared to the total fare. This could make potential drivers more enthusiastic at the prospect of registering on the app, and would eventually result in lower fares. 
+
+2. As a second action, PyBer could invest in a widespread communication campaign targeted at Rural and Suburban areas. As the population in rural in suburban areas is typically older, they might not be aware that this service exists. Thus, a communication campaign targeted at them must take into account their specific needs and characteristics. 
+
+3. Finally, PyBer could also offer rides at half the usual price or for free for a limited amount of time (such as a week, or a month) in Rural and Suburban areas. This offer could be targeted at new users exclusively, and would allow them to try the service for themselves. 
